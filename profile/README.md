@@ -1,12 +1,17 @@
-## Hi there 👋
+# 反コウ期のネコバス
 
-<!--
+## 出場大会・結果
+2024/01/26
+>_TOYOTA × 42 Tokyo共催_<br>
+>_⚡️『自動運転ミニカーバトル』開催⚡️_<br>
+>_電子制御できるミニカーを作り、レースタイムを競います🚗⏱️_<br>
+- 優勝  /  全15チーム
 
-**Here are some ideas to get you started:**
+## チームメンバー
+- [syagi](https://github.com/ssymg)
+- [tkuramot](https://github.com/tkuramot)
+- [tsishika](https://github.com/Ishi-eenn)
+- [shmorish](https://github.com/shmorish)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 記事
+URL : <a href ="https://twitter.com/42_tokyo/status/1750825814948729326">42Tokyo運営ポスト</a>　<br>
