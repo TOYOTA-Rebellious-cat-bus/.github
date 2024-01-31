@@ -8,7 +8,7 @@
 - 優勝  /  全15チーム
 
 ## チームメンバー
-- [syagi](https://github.com/ssymg)
+- [syagi](https://github.com/ssmyg)
 - [tkuramot](https://github.com/tkuramot)
 - [tsishika](https://github.com/Ishi-eenn)
 - [shmorish](https://github.com/shmorish)
